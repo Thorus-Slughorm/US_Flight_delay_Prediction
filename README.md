@@ -98,7 +98,7 @@ Results:
  
 Accuracy: ~77%
  
-Key Predictors: Airline, Departure Hour, Origin City
+Key Predictors: week day,distance, month, destination city, scheduled departured hour,month,origin city
  
  
  
