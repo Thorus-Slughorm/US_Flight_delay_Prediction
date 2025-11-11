@@ -96,7 +96,7 @@ Airline, Origin City, Destination City
  
 Results:
  
-Accuracy: ~82%
+Accuracy: ~77%
  
 Key Predictors: Airline, Departure Hour, Origin City
  
